@@ -1,6 +1,6 @@
 {
   "name": "openconstruct",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "OpenConstruct thin client - onboard agents into the SuperInstance ecosystem",
   "type": "module",
   "main": "dist/index.js",
